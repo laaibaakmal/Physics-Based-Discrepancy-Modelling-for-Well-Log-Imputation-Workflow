@@ -1,1 +1,1 @@
-# Physics-Based-Discrepancy-Modelling-for-Well-Log-Imputation-Workflow
+# Physics-Based-Discrepancy-Modeling-for-Well-Log-Imputation-Workflow
